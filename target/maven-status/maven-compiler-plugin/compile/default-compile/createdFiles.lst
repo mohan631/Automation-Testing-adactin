@@ -1,0 +1,4 @@
+Baseclass\Baseclass.class
+Locators\SearchPage.class
+Locators\LoginPage.class
+PageObjectManager\PageObjectManager.class
